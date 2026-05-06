@@ -10,4 +10,4 @@ The program first checks if all elements can be made equal by verifying if the d
 Array A: [2, 4, 6, 8, 10]
 K: 2
 
-## Output : 6
+## Output : Minimum Operations: 6
